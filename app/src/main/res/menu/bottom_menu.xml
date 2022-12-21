@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=""
+        android:icon="@drawable/ic_outline_home_24"
+        app:showAsAction="never"/>
+    <item
+        android:title=""
+        android:icon="@drawable/ic_outline_calendar_month_24"
+        app:showAsAction="never"/>
+    <item
+        android:title=""
+        android:icon="@drawable/ic_outline_search_24"
+        app:showAsAction="never"/>
+    <item
+        android:title=""
+        android:icon="@drawable/ic_outline_task_24"
+        app:showAsAction="never"/>
+    <item
+        android:title=""
+        android:icon="@drawable/ic_outline_person_24"
+        app:showAsAction="never"/>
+</menu>
